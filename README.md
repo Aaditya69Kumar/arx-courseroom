@@ -25,7 +25,7 @@ arX CourseRoom provides a **role-based platform** with dedicated dashboards for:
 
 *  Instructor
 *  Student
-*  Admin *(in progress)*
+*  Admin 
 
 ---
 
@@ -49,7 +49,7 @@ arX CourseRoom provides a **role-based platform** with dedicated dashboards for:
 * Search instructors
 * Chat with teachers
 
-###  Admin (Planned)
+###  Admin 
 
 * Monitor all users & courses
 * Track submissions
